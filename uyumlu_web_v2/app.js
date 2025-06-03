@@ -1,1 +1,1 @@
-// app.js - örnek içerik
+console.log('ComplyMate started');
