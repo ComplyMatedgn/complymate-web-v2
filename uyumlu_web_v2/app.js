@@ -1,1 +1,1 @@
-console.log('ComplyMate started');
+console.log('ComplyMate Web yayında!');
